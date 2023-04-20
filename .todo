@@ -1,0 +1,5 @@
+# Check for Internet Connection on App Load
+
+# Ensure That the user's has enabled location for accuracy or find another way to get location...maybe webview capabilities
+
+# Check for User Signup
