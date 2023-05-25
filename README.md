@@ -1,6 +1,6 @@
 # Rental Finder App
 
-![App Logo](app_logo.png)
+![App Logo](renthub.PNG)
 
 ## Overview
 This is a React Native app that helps users find rentals in various locations. The app features a user-friendly interface that allows users to filter their search based on various parameters such as location, price range, and number of rooms. The app provides detailed information about each rental, including images, features, and amenities.
